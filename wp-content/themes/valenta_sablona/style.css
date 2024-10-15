@@ -1,0 +1,24 @@
+/*
+Theme Name: Valenta šablona
+Template: kindergarten-toys
+Author: Tomas Valenta
+Version: 1.0.0.1727539088
+Updated: 2024-09-28 17:58:08
+
+*/
+#block-2{
+    display: none;
+}
+.social-area > a:hover{
+    background-color: red !important;
+    box-shadow: 3px 3px 5px red;
+}
+.entry-breadcrumb, #comments,.cat-links{
+    display: none;
+}
+.center p{ 
+    display: block;
+    width: 50%;
+    margin:  0 auto;
+    text-align: center;
+}
